@@ -11,5 +11,5 @@ Which features make the most sense, to you?
 - content as files, not in db
 - themeable/re-themeable
 - site and app become same thing
-- your choice of stacks/template engines
+- your choice of languages/stacks/template engines
 - not coupled with back end data services
